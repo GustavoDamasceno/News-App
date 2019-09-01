@@ -20,13 +20,13 @@ Para saber mais sobre a API, basta acessar a [documentação](https://newsapi.or
 
 ![Alt Text](https://media.giphy.com/media/QVI4FRJ0UrGCYgOXUb/giphy.gif)
 
-![](https://pbs.twimg.com/media/EDV_tmeU4AEWG1T?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/EDWJclyU4AElMRc?format=png&name=small)
 
 
-![](https://pbs.twimg.com/media/EDV_tmdUYAIk0im?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/EDWJzldXUAAt15Q?format=png&name=small)
 
 
-![](https://pbs.twimg.com/media/EDWElldUwAAvD4a?format=png&name=small)
+![](https://pbs.twimg.com/media/EDWKCtIWwAAMcJe?format=png&name=small)
 
 
 
