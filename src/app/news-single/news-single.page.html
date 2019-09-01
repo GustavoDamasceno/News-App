@@ -1,9 +1,20 @@
 <ion-header>
-  <ion-toolbar>
-    <ion-title>news-single</ion-title>
+  <ion-toolbar color="primary">
+<ion-title>{{article.title}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
 
+  <ion-content>
+    <ion-card>
+      <ion-img [src]="article.urlToImage"></ion-img>
+  
+    <ion-card-content>
+      <ion-card-title>{{article.title}}</ion-card-title>
+  
+      <p>{{article.description}}</p>
+    </ion-card-content>
+    </ion-card> 
+  
 </ion-content>
