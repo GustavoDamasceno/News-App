@@ -22,9 +22,7 @@ Para saber mais sobre a API, basta acessar a [documentação](https://newsapi.or
 
 ![](https://pbs.twimg.com/media/EDWJclyU4AElMRc?format=png&name=small)
 
-
 ![](https://pbs.twimg.com/media/EDWJzldXUAAt15Q?format=png&name=small)
-
 
 ![](https://pbs.twimg.com/media/EDWKCtIWwAAMcJe?format=png&name=small)
 
